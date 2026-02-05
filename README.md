@@ -1,3 +1,3 @@
-<div id="header" align="center">
-  <img src="giphy.gif" width="200"/>
+<div id="header" align="left">
+  <img src="hayaomiyazaki.gif" width="200"/>
 </div>
