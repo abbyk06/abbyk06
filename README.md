@@ -1,7 +1,5 @@
 hi, i'm abby!
 
-email: abigail.kim@uottawa.ca
-
 see [my website](https://www.google.com) for more :)
 
 <div id="header" align="left">
